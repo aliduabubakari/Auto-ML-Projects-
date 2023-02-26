@@ -1,7 +1,7 @@
 # Auto-ML-Projects-
 Solve Data Science Problems Using Automated -ML, Learn To Use Eval ML, Pycaret, Auto Keras, Auto SK Learn, H20 Auto ML
 
-utomated Machine Learning provides methods and processes to make Machine Learning available for non-Machine Learning experts, to improve efficiency of Machine Learning and to accelerate research on Machine Learning.
+Automated Machine Learning provides methods and processes to make Machine Learning available for non-Machine Learning experts, to improve efficiency of Machine Learning and to accelerate research on Machine Learning.
 
 Machine learning (ML) has achieved considerable successes in recent years and an ever-growing number of disciplines rely on it. However, this success crucially relies on human machine learning experts to perform the following tasks:
 
